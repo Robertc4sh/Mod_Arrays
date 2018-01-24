@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ModArrays
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ModArrays\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ModArrays()
+comment2.params=num\ index
+comment2.target=void\ changeNum(int,\ int)
+comment3.params=index
+comment3.target=void\ remove(int)
+comment4.params=num\ index
+comment4.target=void\ addNum(int,\ int)
+numComments=5
